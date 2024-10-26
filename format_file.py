@@ -1,6 +1,4 @@
 import pandas as pd
-import geopandas as gpd
-
 
 #----------
 #Formats unemployment DataFrame to get rid of unwanted data
